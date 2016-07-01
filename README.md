@@ -1,3 +1,3 @@
 # hello-world
-Learn Github/b
+Learn Github
 I wrote this line to test how commiting works
